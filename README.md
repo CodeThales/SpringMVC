@@ -1,1 +1,1 @@
-# SpringMVC
+# SpringMVC Studies and practice
